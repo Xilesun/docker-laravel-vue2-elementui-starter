@@ -18,7 +18,7 @@ docker-composer up -d
 
 Configure Ningx in `nginx/nginx.conf` 
 
-`cd web`, copy `.env.example` to `.env`, eidt database info, etc.
+`cd web`, copy `.env.example` to `.env`, edit database info, etc.
 
 Install npm modules.
 
